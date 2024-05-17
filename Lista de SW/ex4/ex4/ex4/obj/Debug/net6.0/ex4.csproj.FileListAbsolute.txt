@@ -1,0 +1,15 @@
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\bin\Debug\net6.0\ex4.exe
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\bin\Debug\net6.0\ex4.deps.json
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\bin\Debug\net6.0\ex4.runtimeconfig.json
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\bin\Debug\net6.0\ex4.dll
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\bin\Debug\net6.0\ex4.pdb
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.dll
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\refint\ex4.dll
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.pdb
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ex4.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\ex4\ex4\ex4\obj\Debug\net6.0\ref\ex4.dll
